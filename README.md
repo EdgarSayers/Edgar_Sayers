@@ -1,2 +1,3 @@
 # Edgar_Sayers
-This is my Personal Repository
+About Me:
+My Name is Edgar. I am a Physics, Chemistry And Maths student...
